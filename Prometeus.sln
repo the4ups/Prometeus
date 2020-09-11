@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "locationsapi", "locationsap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B4FC8BAA-B2CA-465C-9A26-B2935115F5A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTelemetry.WebApi", "OpenTelemetry.WebApi\OpenTelemetry.WebApi.csproj", "{D34D388E-367C-4D6A-A5C6-D844A46B78A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{B4FC8BAA-B2CA-465C-9A26-B2935115F5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4FC8BAA-B2CA-465C-9A26-B2935115F5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4FC8BAA-B2CA-465C-9A26-B2935115F5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34D388E-367C-4D6A-A5C6-D844A46B78A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34D388E-367C-4D6A-A5C6-D844A46B78A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34D388E-367C-4D6A-A5C6-D844A46B78A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34D388E-367C-4D6A-A5C6-D844A46B78A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
